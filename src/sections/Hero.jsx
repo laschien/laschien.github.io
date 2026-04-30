@@ -69,7 +69,7 @@ function Hero() {
       >
         <div className="overflow-hidden rounded-[1.5rem]">
           <img
-            src="/laschien.png"
+            src="/laschien.jpg"
             alt="Ahmed portfolio portrait"
             className="h-[560px] w-full object-cover object-top md:h-[680px] lg:h-[780px]"
           />

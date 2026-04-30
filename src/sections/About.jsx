@@ -38,7 +38,7 @@ function About() {
           <div className="relative overflow-hidden rounded-[2rem] border border-white/10 bg-white/[0.035] p-3">
             <div className="overflow-hidden rounded-[1.5rem]">
               <img
-                src="/about.png"
+                src="/about.jpg"
                 alt="Ahmed portrait"
                 className="h-[520px] w-full object-cover object-top grayscale-[35%]"
               />
