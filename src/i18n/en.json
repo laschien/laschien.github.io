@@ -1,0 +1,95 @@
+{
+  "nav": {
+    "work": "Work",
+    "about": "About",
+    "experience": "Experience",
+    "contact": "Contact",
+    "cta": "Let’s talk",
+    "language": "ع"
+  },
+  "hero": {
+    "badge": "Product Designer & Product Manager",
+    "title": "Designing product experiences that turn complexity into clarity.",
+    "subtitle": "7+ years designing SaaS platforms, dashboards, and business tools that connect user needs with product goals and real execution.",
+    "primaryCta": "View case studies",
+    "secondaryCta": "Contact me",
+    "meta": ["7+ years", "SaaS", "Dashboards", "Product Strategy"]
+  },
+  "projects": {
+    "label": "Selected Work",
+    "title": "Selected case studies across SaaS, dashboards, and product systems.",
+    "subtitle": "A focused collection of product work where strategy, UX, and execution come together.",
+    "cta": "View case study",
+    "viewAll": "View all work"
+  },
+  "impact": {
+    "metrics": [
+      {
+        "number": 7,
+        "suffix": "+",
+        "label": "Years in UI/UX Design",
+        "detail": "Designing dashboards, SaaS platforms, mobile apps, and business tools."
+      },
+      {
+        "number": 3,
+        "suffix": "+",
+        "label": "Product Domains",
+        "detail": "Security operations, e-commerce SaaS, and AI/ML monitoring systems."
+      },
+      {
+        "number": 6,
+        "suffix": "",
+        "label": "Developers Led",
+        "detail": "Coordinating backend, frontend, and mobile teams from idea to delivery."
+      }
+    ]
+  },
+  "about": {
+    "label": "About",
+    "eyebrow": "Expertise",
+    "title": "Blending product logic with clean execution.",
+    "description": "I’m a Product Designer & Product Manager focused on turning complex products into clear, usable, and business-aligned experiences. I don’t just design screens — I shape systems that teams can build, users can understand, and businesses can grow with.",
+    "competencies": "Core competencies",
+    "tools": "Tools & stack",
+    "badgeNumber": "7+",
+    "badgeLabel": "Years of product design",
+    "principles": [
+      {
+        "title": "Product thinking",
+        "text": "I connect user problems, business goals, and technical constraints before jumping into screens."
+      },
+      {
+        "title": "UX execution",
+        "text": "I turn complex flows into clear interfaces, strong hierarchy, and practical design systems."
+      },
+      {
+        "title": "Team leadership",
+        "text": "I work closely with developers and stakeholders to move ideas from discovery to delivery."
+      }
+    ]
+  },
+  "experience": {
+    "label": "Experience",
+    "eyebrow": "Journey",
+    "title": "Professional experience shaped by product execution."
+  },
+  "contact": {
+    "label": "Contact",
+    "title": "Let’s build something clear and useful.",
+    "description": "Available for product design, SaaS UX, dashboard design, product strategy, and selected freelance collaborations.",
+    "emailCta": "Email me",
+    "linkedinCta": "LinkedIn",
+    "links": {
+      "email": "Email",
+      "emailValue": "hello@laschien.me",
+      "linkedin": "LinkedIn",
+      "linkedinValue": "Connect professionally",
+      "github": "GitHub",
+      "githubValue": "View projects & code"
+    }
+  },
+  "footer": {
+    "left": "© 2026 Ahmed. Built with React, Tailwind, and care.",
+    "right": "Product Design · Product Strategy · SaaS · Dashboards"
+  }
+}
