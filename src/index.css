@@ -45,6 +45,11 @@ select {
   font-family: "Thmanyah Sans", system-ui, sans-serif;
 }
 
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 90px;
+}
+
 body {
   margin: 0;
 }
